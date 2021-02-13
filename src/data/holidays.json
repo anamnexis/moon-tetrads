@@ -1,0 +1,4666 @@
+[
+  [
+    {
+      "gy": 162,
+      "gm": 4,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 3922,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תתקכ״ב",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 162,
+      "gm": 10,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 3923,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי תתקכ״ג",
+      "events": [
+        "Sukkot I"
+      ]
+    },
+    {
+      "gy": 163,
+      "gm": 4,
+      "gd": 6,
+      "afterSunset": false,
+      "hy": 3923,
+      "hm": "Nisan",
+      "hd": 16,
+      "hebrew": "ט״ז בְּנִיסָן תתקכ״ג",
+      "events": [
+        "Pesach II"
+      ]
+    },
+    {
+      "gy": 163,
+      "gm": 9,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 3924,
+      "hm": "Tishrei",
+      "hd": 16,
+      "hebrew": "ט״ז בְּתִשְׁרֵי תתקכ״ד",
+      "events": [
+        "Sukkot II"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 180,
+      "gm": 4,
+      "gd": 27,
+      "afterSunset": false,
+      "hy": 3940,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר תתק״מ",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 180,
+      "gm": 10,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 3941,
+      "hm": "Cheshvan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּחֶשְׁוָן תתקמ״א",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 181,
+      "gm": 4,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 3941,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תתקמ״א",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 181,
+      "gm": 10,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 3942,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי תתקמ״ב",
+      "events": [
+        "Erev Sukkot"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 198,
+      "gm": 5,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 3958,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר תתקנ״ח",
+      "events": [
+        "Parashat Bechukotai"
+      ]
+    },
+    {
+      "gy": 198,
+      "gm": 11,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 3959,
+      "hm": "Cheshvan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּחֶשְׁוָן תתקנ״ט",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 199,
+      "gm": 4,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 3959,
+      "hm": "Iyyar",
+      "hd": 16,
+      "hebrew": "ט״ז בְּאִיָיר תתקנ״ט",
+      "events": [
+        "Parashat Behar-Bechukotai"
+      ]
+    },
+    {
+      "gy": 199,
+      "gm": 10,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 3960,
+      "hm": "Cheshvan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּחֶשְׁוָן תתק״ס",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 227,
+      "gm": 4,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 3987,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר תתקפ״ז",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 227,
+      "gm": 10,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 3988,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן תתקפ״ח",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 228,
+      "gm": 4,
+      "gd": 7,
+      "afterSunset": false,
+      "hy": 3988,
+      "hm": "Nisan",
+      "hd": 14,
+      "hebrew": "י״ד בְּנִיסָן תתקפ״ח",
+      "events": [
+        "Ta'anit Bechorot",
+        "Erev Pesach"
+      ]
+    },
+    {
+      "gy": 228,
+      "gm": 10,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 3989,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי תתקפ״ט",
+      "events": [
+        "Erev Sukkot"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 238,
+      "gm": 3,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 3998,
+      "hm": "Adar II",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר ב׳ תתקצ״ח",
+      "events": [
+        "Purim",
+        "Parashat Shmini"
+      ]
+    },
+    {
+      "gy": 238,
+      "gm": 9,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 3998,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל תתקצ״ח",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 239,
+      "gm": 3,
+      "gd": 7,
+      "afterSunset": false,
+      "hy": 3999,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תתקצ״ט",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 239,
+      "gm": 9,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 3999,
+      "hm": "Elul",
+      "hd": 15,
+      "hebrew": "ט״ו בֶּאֱלוּל תתקצ״ט",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 245,
+      "gm": 4,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 4005,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר ה׳",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 245,
+      "gm": 10,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 4006,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן ו׳",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 246,
+      "gm": 4,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 4006,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר ו׳",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 246,
+      "gm": 10,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 4007,
+      "hm": "Cheshvan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּחֶשְׁוָן ז׳",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 256,
+      "gm": 3,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 4016,
+      "hm": "Nisan",
+      "hd": 14,
+      "hebrew": "י״ד בְּנִיסָן ט״ז",
+      "events": [
+        "Ta'anit Bechorot",
+        "Erev Pesach"
+      ]
+    },
+    {
+      "gy": 256,
+      "gm": 9,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 4017,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי י״ז",
+      "events": [
+        "Sukkot I"
+      ]
+    },
+    {
+      "gy": 257,
+      "gm": 3,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 4017,
+      "hm": "Adar II",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר ב׳ י״ז",
+      "events": [
+        "Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 257,
+      "gm": 9,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 4017,
+      "hm": "Elul",
+      "hd": 15,
+      "hebrew": "ט״ו בֶּאֱלוּל י״ז",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 267,
+      "gm": 2,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 4027,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר כ״ז",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 267,
+      "gm": 8,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 4027,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל כ״ז",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 268,
+      "gm": 2,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 4028,
+      "hm": "Adar I",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר א׳ כ״ח",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 268,
+      "gm": 8,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 4028,
+      "hm": "Av",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאָב כ״ח",
+      "events": [
+        "Tu B'Av",
+        "Parashat Eikev"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 285,
+      "gm": 3,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 4045,
+      "hm": "Adar II",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר ב׳ מ״ה",
+      "events": [
+        "Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 285,
+      "gm": 9,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 4045,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל מ״ה",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 286,
+      "gm": 2,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 4046,
+      "hm": "Adar",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר מ״ו",
+      "events": [
+        "Shushan Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 286,
+      "gm": 8,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 4046,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל מ״ו",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 332,
+      "gm": 2,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 4092,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר צ״ב",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 332,
+      "gm": 8,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 4092,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל צ״ב",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 333,
+      "gm": 2,
+      "gd": 16,
+      "afterSunset": false,
+      "hy": 4093,
+      "hm": "Adar I",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר א׳ צ״ג",
+      "events": [
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 333,
+      "gm": 8,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 4093,
+      "hm": "Av",
+      "hd": 13,
+      "hebrew": "י״ג בְּאָב צ״ג",
+      "events": [
+        "Shabbat Nachamu",
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 350,
+      "gm": 3,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 4110,
+      "hm": "Adar II",
+      "hd": 12,
+      "hebrew": "י״ב בַּאֲדָר ב׳ ק״י",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 350,
+      "gm": 9,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 4110,
+      "hm": "Elul",
+      "hd": 11,
+      "hebrew": "י״א בֶּאֱלוּל ק״י",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 351,
+      "gm": 2,
+      "gd": 27,
+      "afterSunset": false,
+      "hy": 4111,
+      "hm": "Adar",
+      "hd": 12,
+      "hebrew": "י״ב בַּאֲדָר קי״א",
+      "events": [
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 351,
+      "gm": 8,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 4111,
+      "hm": "Elul",
+      "hd": 12,
+      "hebrew": "י״ב בֶּאֱלוּל קי״א",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 361,
+      "gm": 2,
+      "gd": 6,
+      "afterSunset": false,
+      "hy": 4121,
+      "hm": "Adar I",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר א׳ קכ״א",
+      "events": [
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 361,
+      "gm": 8,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4121,
+      "hm": "Av",
+      "hd": 14,
+      "hebrew": "י״ד בְּאָב קכ״א",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    },
+    {
+      "gy": 362,
+      "gm": 1,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 4122,
+      "hm": "Sh'vat",
+      "hd": 12,
+      "hebrew": "י״ב בִּשְׁבָט קכ״ב",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 362,
+      "gm": 7,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 4122,
+      "hm": "Av",
+      "hd": 13,
+      "hebrew": "י״ג בְּאָב קכ״ב",
+      "events": [
+        "Parashat Eikev"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 390,
+      "gm": 1,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 4150,
+      "hm": "Sh'vat",
+      "hd": 14,
+      "hebrew": "י״ד בִּשְׁבָט ק״נ",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 390,
+      "gm": 7,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 4150,
+      "hm": "Tamuz",
+      "hd": 13,
+      "hebrew": "י״ג בְּתַמּוּז ק״נ",
+      "events": [
+        "Parashat Balak"
+      ]
+    },
+    {
+      "gy": 391,
+      "gm": 1,
+      "gd": 7,
+      "afterSunset": false,
+      "hy": 4151,
+      "hm": "Tevet",
+      "hd": 14,
+      "hebrew": "י״ד בְּטֵבֵת קנ״א",
+      "events": [
+        "Parashat Shemot"
+      ]
+    },
+    {
+      "gy": 391,
+      "gm": 7,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 4151,
+      "hm": "Tamuz",
+      "hd": 13,
+      "hebrew": "י״ג בְּתַמּוּז קנ״א",
+      "events": [
+        "Parashat Balak"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 408,
+      "gm": 1,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 4168,
+      "hm": "Sh'vat",
+      "hd": 14,
+      "hebrew": "י״ד בִּשְׁבָט קס״ח",
+      "events": [
+        "Parashat Yitro"
+      ]
+    },
+    {
+      "gy": 408,
+      "gm": 7,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 4168,
+      "hm": "Av",
+      "hd": 14,
+      "hebrew": "י״ד בְּאָב קס״ח",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    },
+    {
+      "gy": 409,
+      "gm": 1,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 4169,
+      "hm": "Sh'vat",
+      "hd": 13,
+      "hebrew": "י״ג בִּשְׁבָט קס״ט",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 409,
+      "gm": 7,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 4169,
+      "hm": "Tamuz",
+      "hd": 12,
+      "hebrew": "י״ב בְּתַמּוּז קס״ט",
+      "events": [
+        "Parashat Balak"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 437,
+      "gm": 1,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 4197,
+      "hm": "Sh'vat",
+      "hd": 15,
+      "hebrew": "ט״ו בִּשְׁבָט קצ״ז",
+      "events": [
+        "Tu BiShvat",
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 437,
+      "gm": 7,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4197,
+      "hm": "Tamuz",
+      "hd": 13,
+      "hebrew": "י״ג בְּתַמּוּז קצ״ז",
+      "events": [
+        "Parashat Balak"
+      ]
+    },
+    {
+      "gy": 437,
+      "gm": 12,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 4198,
+      "hm": "Tevet",
+      "hd": 14,
+      "hebrew": "י״ד בְּטֵבֵת קצ״ח",
+      "events": [
+        "Parashat Shemot"
+      ]
+    },
+    {
+      "gy": 438,
+      "gm": 6,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 4198,
+      "hm": "Tamuz",
+      "hd": 14,
+      "hebrew": "י״ד בְּתַמּוּז קצ״ח",
+      "events": [
+        "Parashat Balak"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 455,
+      "gm": 1,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 4215,
+      "hm": "Sh'vat",
+      "hd": 14,
+      "hebrew": "י״ד בִּשְׁבָט רט״ו",
+      "events": [
+        "Parashat Yitro"
+      ]
+    },
+    {
+      "gy": 455,
+      "gm": 7,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 4215,
+      "hm": "Av",
+      "hd": 14,
+      "hebrew": "י״ד בְּאָב רט״ו",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    },
+    {
+      "gy": 456,
+      "gm": 1,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 4216,
+      "hm": "Sh'vat",
+      "hd": 14,
+      "hebrew": "י״ד בִּשְׁבָט רט״ז",
+      "events": [
+        "Parashat Yitro"
+      ]
+    },
+    {
+      "gy": 456,
+      "gm": 7,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4216,
+      "hm": "Tamuz",
+      "hd": 12,
+      "hebrew": "י״ב בְּתַמּוּז רט״ז",
+      "events": [
+        "Parashat Balak"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 766,
+      "gm": 4,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 4526,
+      "hm": "Iyyar",
+      "hd": 11,
+      "hebrew": "י״א בְּאִיָיר תקכ״ו",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 766,
+      "gm": 10,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 4527,
+      "hm": "Cheshvan",
+      "hd": 10,
+      "hebrew": "י׳ בְּחֶשְׁוָן תקכ״ז",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    },
+    {
+      "gy": 767,
+      "gm": 4,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 4527,
+      "hm": "Iyyar",
+      "hd": 12,
+      "hebrew": "י״ב בְּאִיָיר תקכ״ז",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 767,
+      "gm": 10,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 4528,
+      "hm": "Cheshvan",
+      "hd": 11,
+      "hebrew": "י״א בְּחֶשְׁוָן תקכ״ח",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 784,
+      "gm": 5,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 4544,
+      "hm": "Iyyar",
+      "hd": 10,
+      "hebrew": "י׳ בְּאִיָיר תקמ״ד",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 784,
+      "gm": 11,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 4545,
+      "hm": "Cheshvan",
+      "hd": 10,
+      "hebrew": "י׳ בְּחֶשְׁוָן תקמ״ה",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    },
+    {
+      "gy": 785,
+      "gm": 4,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 4545,
+      "hm": "Iyyar",
+      "hd": 10,
+      "hebrew": "י׳ בְּאִיָיר תקמ״ה",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 785,
+      "gm": 10,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 4546,
+      "hm": "Cheshvan",
+      "hd": 9,
+      "hebrew": "ט׳ בְּחֶשְׁוָן תקמ״ו",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 795,
+      "gm": 4,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 4555,
+      "hm": "Nisan",
+      "hd": 11,
+      "hebrew": "י״א בְּנִיסָן תקנ״ה"
+    },
+    {
+      "gy": 795,
+      "gm": 10,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4556,
+      "hm": "Tishrei",
+      "hd": 11,
+      "hebrew": "י״א בְּתִשְׁרֵי תקנ״ו"
+    },
+    {
+      "gy": 796,
+      "gm": 3,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 4556,
+      "hm": "Nisan",
+      "hd": 10,
+      "hebrew": "י׳ בְּנִיסָן תקנ״ו",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 796,
+      "gm": 9,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 4557,
+      "hm": "Tishrei",
+      "hd": 10,
+      "hebrew": "י׳ בְּתִשְׁרֵי תקנ״ז",
+      "events": [
+        "Yom Kippur"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 802,
+      "gm": 5,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 4562,
+      "hm": "Sivan",
+      "hd": 12,
+      "hebrew": "י״ב בְּסִיוָן תקס״ב",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 802,
+      "gm": 11,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 4563,
+      "hm": "Kislev",
+      "hd": 10,
+      "hebrew": "י׳ בְּכִסְלֵו תקס״ג",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    },
+    {
+      "gy": 803,
+      "gm": 5,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 4563,
+      "hm": "Iyyar",
+      "hd": 10,
+      "hebrew": "י׳ בְּאִיָיר תקס״ג",
+      "events": [
+        "Parashat Behar"
+      ]
+    },
+    {
+      "gy": 803,
+      "gm": 11,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4564,
+      "hm": "Cheshvan",
+      "hd": 10,
+      "hebrew": "י׳ בְּחֶשְׁוָן תקס״ד",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 813,
+      "gm": 4,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 4573,
+      "hm": "Iyyar",
+      "hd": 11,
+      "hebrew": "י״א בְּאִיָיר תקע״ג",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 813,
+      "gm": 10,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 4574,
+      "hm": "Cheshvan",
+      "hd": 11,
+      "hebrew": "י״א בְּחֶשְׁוָן תקע״ד",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 814,
+      "gm": 4,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 4574,
+      "hm": "Nisan",
+      "hd": 11,
+      "hebrew": "י״א בְּנִיסָן תקע״ד"
+    },
+    {
+      "gy": 814,
+      "gm": 10,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4575,
+      "hm": "Tishrei",
+      "hd": 12,
+      "hebrew": "י״ב בְּתִשְׁרֵי תקע״ה",
+      "events": [
+        "Parashat Ha'Azinu"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 824,
+      "gm": 3,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 4584,
+      "hm": "Nisan",
+      "hd": 10,
+      "hebrew": "י׳ בְּנִיסָן תקפ״ד"
+    },
+    {
+      "gy": 824,
+      "gm": 9,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 4585,
+      "hm": "Tishrei",
+      "hd": 11,
+      "hebrew": "י״א בְּתִשְׁרֵי תקפ״ה",
+      "events": [
+        "Parashat Ha'Azinu"
+      ]
+    },
+    {
+      "gy": 825,
+      "gm": 3,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 4585,
+      "hm": "Adar II",
+      "hd": 11,
+      "hebrew": "י״א בַּאֲדָר ב׳ תקפ״ה",
+      "events": [
+        "Shabbat Zachor",
+        "Parashat Vayikra"
+      ]
+    },
+    {
+      "gy": 825,
+      "gm": 9,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 4585,
+      "hm": "Elul",
+      "hd": 11,
+      "hebrew": "י״א בֶּאֱלוּל תקפ״ה",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 842,
+      "gm": 3,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 4602,
+      "hm": "Nisan",
+      "hd": 11,
+      "hebrew": "י״א בְּנִיסָן תר״ב"
+    },
+    {
+      "gy": 842,
+      "gm": 9,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 4603,
+      "hm": "Tishrei",
+      "hd": 11,
+      "hebrew": "י״א בְּתִשְׁרֵי תר״ג"
+    },
+    {
+      "gy": 843,
+      "gm": 3,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 4603,
+      "hm": "Nisan",
+      "hd": 10,
+      "hebrew": "י׳ בְּנִיסָן תר״ג",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 843,
+      "gm": 9,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 4604,
+      "hm": "Tishrei",
+      "hd": 10,
+      "hebrew": "י׳ בְּתִשְׁרֵי תר״ד",
+      "events": [
+        "Yom Kippur"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 860,
+      "gm": 4,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 4620,
+      "hm": "Nisan",
+      "hd": 11,
+      "hebrew": "י״א בְּנִיסָן תר״כ",
+      "events": [
+        "Parashat Metzora"
+      ]
+    },
+    {
+      "gy": 860,
+      "gm": 10,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4621,
+      "hm": "Tishrei",
+      "hd": 11,
+      "hebrew": "י״א בְּתִשְׁרֵי תרכ״א"
+    },
+    {
+      "gy": 861,
+      "gm": 3,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 4621,
+      "hm": "Nisan",
+      "hd": 11,
+      "hebrew": "י״א בְּנִיסָן תרכ״א",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 861,
+      "gm": 9,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 4622,
+      "hm": "Tishrei",
+      "hd": 10,
+      "hebrew": "י׳ בְּתִשְׁרֵי תרכ״ב",
+      "events": [
+        "Yom Kippur",
+        "Parashat Ha'Azinu"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 878,
+      "gm": 4,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 4638,
+      "hm": "Iyyar",
+      "hd": 10,
+      "hebrew": "י׳ בְּאִיָיר תרל״ח",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 878,
+      "gm": 10,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 4639,
+      "hm": "Cheshvan",
+      "hd": 11,
+      "hebrew": "י״א בְּחֶשְׁוָן תרל״ט",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    },
+    {
+      "gy": 879,
+      "gm": 4,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 4639,
+      "hm": "Nisan",
+      "hd": 10,
+      "hebrew": "י׳ בְּנִיסָן תרל״ט"
+    },
+    {
+      "gy": 879,
+      "gm": 10,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 4640,
+      "hm": "Tishrei",
+      "hd": 10,
+      "hebrew": "י׳ בְּתִשְׁרֵי תר״מ",
+      "events": [
+        "Yom Kippur",
+        "Parashat Ha'Azinu"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 889,
+      "gm": 3,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 4649,
+      "hm": "Nisan",
+      "hd": 12,
+      "hebrew": "י״ב בְּנִיסָן תרמ״ט"
+    },
+    {
+      "gy": 889,
+      "gm": 9,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 4650,
+      "hm": "Tishrei",
+      "hd": 11,
+      "hebrew": "י״א בְּתִשְׁרֵי תר״נ"
+    },
+    {
+      "gy": 890,
+      "gm": 3,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 4650,
+      "hm": "Adar II",
+      "hd": 10,
+      "hebrew": "י׳ בַּאֲדָר ב׳ תר״נ",
+      "events": [
+        "Parashat Vayikra"
+      ]
+    },
+    {
+      "gy": 890,
+      "gm": 9,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 4650,
+      "hm": "Elul",
+      "hd": 9,
+      "hebrew": "ט׳ בֶּאֱלוּל תר״נ",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 900,
+      "gm": 2,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 4660,
+      "hm": "Adar",
+      "hd": 11,
+      "hebrew": "י״א בַּאֲדָר תר״ס",
+      "events": [
+        "Ta'anit Esther",
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 900,
+      "gm": 8,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 4660,
+      "hm": "Elul",
+      "hd": 10,
+      "hebrew": "י׳ בֶּאֱלוּל תר״ס",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 901,
+      "gm": 2,
+      "gd": 6,
+      "afterSunset": false,
+      "hy": 4661,
+      "hm": "Adar I",
+      "hd": 9,
+      "hebrew": "ט׳ בַּאֲדָר א׳ תרס״א",
+      "events": [
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 901,
+      "gm": 8,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4661,
+      "hm": "Av",
+      "hd": 10,
+      "hebrew": "י׳ בְּאָב תרס״א",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 918,
+      "gm": 2,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 4678,
+      "hm": "Adar",
+      "hd": 8,
+      "hebrew": "ח׳ בַּאֲדָר תרע״ח",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 918,
+      "gm": 8,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 4678,
+      "hm": "Elul",
+      "hd": 8,
+      "hebrew": "ח׳ בֶּאֱלוּל תרע״ח",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 919,
+      "gm": 2,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 4679,
+      "hm": "Adar",
+      "hd": 8,
+      "hebrew": "ח׳ בַּאֲדָר תרע״ט",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 919,
+      "gm": 8,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 4679,
+      "hm": "Elul",
+      "hd": 9,
+      "hebrew": "ט׳ בֶּאֱלוּל תרע״ט",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 936,
+      "gm": 3,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 4696,
+      "hm": "Adar II",
+      "hd": 10,
+      "hebrew": "י׳ בַּאֲדָר ב׳ תרצ״ו",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 936,
+      "gm": 9,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 4696,
+      "hm": "Elul",
+      "hd": 10,
+      "hebrew": "י׳ בֶּאֱלוּל תרצ״ו",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 937,
+      "gm": 2,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 4697,
+      "hm": "Adar",
+      "hd": 9,
+      "hebrew": "ט׳ בַּאֲדָר תרצ״ז",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 937,
+      "gm": 8,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 4697,
+      "hm": "Elul",
+      "hd": 9,
+      "hebrew": "ט׳ בֶּאֱלוּל תרצ״ז",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 947,
+      "gm": 2,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 4707,
+      "hm": "Adar I",
+      "hd": 10,
+      "hebrew": "י׳ בַּאֲדָר א׳ תש״ז",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 947,
+      "gm": 8,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 4707,
+      "hm": "Av",
+      "hd": 10,
+      "hebrew": "י׳ בְּאָב תש״ז",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    },
+    {
+      "gy": 948,
+      "gm": 1,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 4708,
+      "hm": "Sh'vat",
+      "hd": 9,
+      "hebrew": "ט׳ בִּשְׁבָט תש״ח",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 948,
+      "gm": 7,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 4708,
+      "hm": "Av",
+      "hd": 9,
+      "hebrew": "ט׳ בְּאָב תש״ח",
+      "events": [
+        "Tish'a B'Av",
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 965,
+      "gm": 2,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 4725,
+      "hm": "Adar",
+      "hd": 8,
+      "hebrew": "ח׳ בַּאֲדָר תשכ״ה",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 965,
+      "gm": 8,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 4725,
+      "hm": "Elul",
+      "hd": 9,
+      "hebrew": "ט׳ בֶּאֱלוּל תשכ״ה",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 966,
+      "gm": 2,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 4726,
+      "hm": "Adar I",
+      "hd": 10,
+      "hebrew": "י׳ בַּאֲדָר א׳ תשכ״ו",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 966,
+      "gm": 8,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 4726,
+      "hm": "Av",
+      "hd": 10,
+      "hebrew": "י׳ בְּאָב תשכ״ו",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 976,
+      "gm": 1,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 4736,
+      "hm": "Sh'vat",
+      "hd": 10,
+      "hebrew": "י׳ בִּשְׁבָט תשל״ו",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 976,
+      "gm": 7,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 4736,
+      "hm": "Av",
+      "hd": 10,
+      "hebrew": "י׳ בְּאָב תשל״ו",
+      "events": [
+        "Tish'a B'Av (observed)",
+        "Parashat Vaetchanan"
+      ]
+    },
+    {
+      "gy": 977,
+      "gm": 1,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 4737,
+      "hm": "Sh'vat",
+      "hd": 10,
+      "hebrew": "י׳ בִּשְׁבָט תשל״ז",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 977,
+      "gm": 7,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 4737,
+      "hm": "Tamuz",
+      "hd": 8,
+      "hebrew": "ח׳ בְּתַמּוּז תשל״ז",
+      "events": [
+        "Parashat Chukat"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 994,
+      "gm": 1,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 4754,
+      "hm": "Sh'vat",
+      "hd": 11,
+      "hebrew": "י״א בִּשְׁבָט תשנ״ד",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 994,
+      "gm": 7,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 4754,
+      "hm": "Av",
+      "hd": 10,
+      "hebrew": "י׳ בְּאָב תשנ״ד",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    },
+    {
+      "gy": 995,
+      "gm": 1,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 4755,
+      "hm": "Sh'vat",
+      "hd": 10,
+      "hebrew": "י׳ בִּשְׁבָט תשנ״ה",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 995,
+      "gm": 7,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 4755,
+      "hm": "Av",
+      "hd": 9,
+      "hebrew": "ט׳ בְּאָב תשנ״ה",
+      "events": [
+        "Tish'a B'Av",
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1305,
+      "gm": 5,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5065,
+      "hm": "Iyyar",
+      "hd": 6,
+      "hebrew": "ו׳ בְּאִיָיר ס״ה",
+      "events": [
+        "Parashat Kedoshim"
+      ]
+    },
+    {
+      "gy": 1305,
+      "gm": 11,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 5066,
+      "hm": "Cheshvan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּחֶשְׁוָן ס״ו",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    },
+    {
+      "gy": 1306,
+      "gm": 4,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 5066,
+      "hm": "Iyyar",
+      "hd": 6,
+      "hebrew": "ו׳ בְּאִיָיר ס״ו",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 1306,
+      "gm": 10,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 5067,
+      "hm": "Cheshvan",
+      "hd": 5,
+      "hebrew": "ה׳ בְּחֶשְׁוָן ס״ז",
+      "events": [
+        "Parashat Noach"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1323,
+      "gm": 5,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 5083,
+      "hm": "Sivan",
+      "hd": 8,
+      "hebrew": "ח׳ בְּסִיוָן פ״ג",
+      "events": [
+        "Parashat Nasso"
+      ]
+    },
+    {
+      "gy": 1323,
+      "gm": 11,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5084,
+      "hm": "Kislev",
+      "hd": 6,
+      "hebrew": "ו׳ בְּכִסְלֵו פ״ד",
+      "events": [
+        "Parashat Vayetzei"
+      ]
+    },
+    {
+      "gy": 1324,
+      "gm": 5,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5084,
+      "hm": "Iyyar",
+      "hd": 6,
+      "hebrew": "ו׳ בְּאִיָיר פ״ד",
+      "events": [
+        "Parashat Behar"
+      ]
+    },
+    {
+      "gy": 1324,
+      "gm": 11,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 5085,
+      "hm": "Cheshvan",
+      "hd": 5,
+      "hebrew": "ה׳ בְּחֶשְׁוָן פ״ה",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1341,
+      "gm": 5,
+      "gd": 31,
+      "afterSunset": false,
+      "hy": 5101,
+      "hm": "Sivan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּסִיוָן ק״א",
+      "events": [
+        "Shavuot I",
+        "Parashat Nasso"
+      ]
+    },
+    {
+      "gy": 1341,
+      "gm": 11,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 5102,
+      "hm": "Kislev",
+      "hd": 5,
+      "hebrew": "ה׳ בְּכִסְלֵו ק״ב",
+      "events": [
+        "Parashat Vayetzei"
+      ]
+    },
+    {
+      "gy": 1342,
+      "gm": 5,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 5102,
+      "hm": "Sivan",
+      "hd": 7,
+      "hebrew": "ז׳ בְּסִיוָן ק״ב",
+      "events": [
+        "Shavuot II",
+        "Parashat Nasso"
+      ]
+    },
+    {
+      "gy": 1342,
+      "gm": 11,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5103,
+      "hm": "Kislev",
+      "hd": 6,
+      "hebrew": "ו׳ בְּכִסְלֵו ק״ג",
+      "events": [
+        "Parashat Vayetzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1352,
+      "gm": 4,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5112,
+      "hm": "Iyyar",
+      "hd": 7,
+      "hebrew": "ז׳ בְּאִיָיר קי״ב",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 1352,
+      "gm": 10,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 5113,
+      "hm": "Cheshvan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּחֶשְׁוָן קי״ג",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    },
+    {
+      "gy": 1353,
+      "gm": 4,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 5113,
+      "hm": "Iyyar",
+      "hd": 6,
+      "hebrew": "ו׳ בְּאִיָיר קי״ג",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 1353,
+      "gm": 10,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5114,
+      "hm": "Cheshvan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּחֶשְׁוָן קי״ד",
+      "events": [
+        "Parashat Noach"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1370,
+      "gm": 5,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 5130,
+      "hm": "Iyyar",
+      "hd": 7,
+      "hebrew": "ז׳ בְּאִיָיר ק״ל",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 1370,
+      "gm": 11,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5131,
+      "hm": "Cheshvan",
+      "hd": 7,
+      "hebrew": "ז׳ בְּחֶשְׁוָן קל״א",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    },
+    {
+      "gy": 1371,
+      "gm": 4,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5131,
+      "hm": "Iyyar",
+      "hd": 6,
+      "hebrew": "ו׳ בְּאִיָיר קל״א",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 1371,
+      "gm": 10,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 5132,
+      "hm": "Cheshvan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּחֶשְׁוָן קל״ב",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1399,
+      "gm": 4,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 5159,
+      "hm": "Iyyar",
+      "hd": 6,
+      "hebrew": "ו׳ בְּאִיָיר קנ״ט",
+      "events": [
+        "Parashat Tazria-Metzora"
+      ]
+    },
+    {
+      "gy": 1399,
+      "gm": 10,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 5160,
+      "hm": "Cheshvan",
+      "hd": 7,
+      "hebrew": "ז׳ בְּחֶשְׁוָן ק״ס",
+      "events": [
+        "Parashat Lech-Lecha"
+      ]
+    },
+    {
+      "gy": 1400,
+      "gm": 4,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5160,
+      "hm": "Nisan",
+      "hd": 5,
+      "hebrew": "ה׳ בְּנִיסָן ק״ס",
+      "events": [
+        "Parashat Metzora"
+      ]
+    },
+    {
+      "gy": 1400,
+      "gm": 10,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 5161,
+      "hm": "Tishrei",
+      "hd": 5,
+      "hebrew": "ה׳ בְּתִשְׁרֵי קס״א",
+      "events": [
+        "Parashat Vayeilech"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1428,
+      "gm": 3,
+      "gd": 31,
+      "afterSunset": false,
+      "hy": 5188,
+      "hm": "Nisan",
+      "hd": 5,
+      "hebrew": "ה׳ בְּנִיסָן קפ״ח",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 1428,
+      "gm": 9,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 5189,
+      "hm": "Tishrei",
+      "hd": 4,
+      "hebrew": "ד׳ בְּתִשְׁרֵי קפ״ט",
+      "events": [
+        "Parashat Ha'Azinu"
+      ]
+    },
+    {
+      "gy": 1429,
+      "gm": 3,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 5189,
+      "hm": "Nisan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּנִיסָן קפ״ט",
+      "events": [
+        "Parashat Vayikra"
+      ]
+    },
+    {
+      "gy": 1429,
+      "gm": 9,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5190,
+      "hm": "Tishrei",
+      "hd": 6,
+      "hebrew": "ו׳ בְּתִשְׁרֵי ק״צ",
+      "events": [
+        "Parashat Ha'Azinu"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1457,
+      "gm": 3,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 5217,
+      "hm": "Adar II",
+      "hd": 6,
+      "hebrew": "ו׳ בַּאֲדָר ב׳ רי״ז",
+      "events": [
+        "Parashat Vayikra"
+      ]
+    },
+    {
+      "gy": 1457,
+      "gm": 9,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 5217,
+      "hm": "Elul",
+      "hd": 5,
+      "hebrew": "ה׳ בֶּאֱלוּל רי״ז",
+      "events": [
+        "Parashat Shoftim"
+      ]
+    },
+    {
+      "gy": 1458,
+      "gm": 2,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 5218,
+      "hm": "Adar",
+      "hd": 5,
+      "hebrew": "ה׳ בַּאֲדָר רי״ח",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 1458,
+      "gm": 8,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 5218,
+      "hm": "Elul",
+      "hd": 5,
+      "hebrew": "ה׳ בֶּאֱלוּל רי״ח",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1475,
+      "gm": 3,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 5235,
+      "hm": "Nisan",
+      "hd": 5,
+      "hebrew": "ה׳ בְּנִיסָן רל״ה",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 1475,
+      "gm": 9,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 5236,
+      "hm": "Tishrei",
+      "hd": 5,
+      "hebrew": "ה׳ בְּתִשְׁרֵי רל״ו",
+      "events": [
+        "Parashat Ha'Azinu"
+      ]
+    },
+    {
+      "gy": 1476,
+      "gm": 3,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 5236,
+      "hm": "Adar II",
+      "hd": 5,
+      "hebrew": "ה׳ בַּאֲדָר ב׳ רל״ו",
+      "events": [
+        "Parashat Pekudei"
+      ]
+    },
+    {
+      "gy": 1476,
+      "gm": 9,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 5236,
+      "hm": "Elul",
+      "hd": 5,
+      "hebrew": "ה׳ בֶּאֱלוּל רל״ו",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1493,
+      "gm": 4,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 5253,
+      "hm": "Nisan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּנִיסָן רנ״ג",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 1493,
+      "gm": 9,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5254,
+      "hm": "Tishrei",
+      "hd": 5,
+      "hebrew": "ה׳ בְּתִשְׁרֵי רנ״ד"
+    },
+    {
+      "gy": 1494,
+      "gm": 3,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 5254,
+      "hm": "Nisan",
+      "hd": 6,
+      "hebrew": "ו׳ בְּנִיסָן רנ״ד",
+      "events": [
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 1494,
+      "gm": 9,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 5255,
+      "hm": "Tishrei",
+      "hd": 6,
+      "hebrew": "ו׳ בְּתִשְׁרֵי רנ״ה",
+      "events": [
+        "Shabbat Shuva",
+        "Parashat Vayeilech"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1504,
+      "gm": 3,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 5264,
+      "hm": "Adar",
+      "hd": 5,
+      "hebrew": "ה׳ בַּאֲדָר רס״ד",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 1504,
+      "gm": 8,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5264,
+      "hm": "Elul",
+      "hd": 5,
+      "hebrew": "ה׳ בֶּאֱלוּל רס״ד",
+      "events": [
+        "Parashat Shoftim"
+      ]
+    },
+    {
+      "gy": 1505,
+      "gm": 2,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 5265,
+      "hm": "Adar",
+      "hd": 4,
+      "hebrew": "ד׳ בַּאֲדָר רס״ה",
+      "events": [
+        "Parashat Terumah"
+      ]
+    },
+    {
+      "gy": 1505,
+      "gm": 8,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 5265,
+      "hm": "Elul",
+      "hd": 4,
+      "hebrew": "ד׳ בֶּאֱלוּל רס״ה",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1515,
+      "gm": 1,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5275,
+      "hm": "Sh'vat",
+      "hd": 4,
+      "hebrew": "ד׳ בִּשְׁבָט רע״ה",
+      "events": [
+        "Parashat Bo"
+      ]
+    },
+    {
+      "gy": 1515,
+      "gm": 7,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5275,
+      "hm": "Av",
+      "hd": 3,
+      "hebrew": "ג׳ בְּאָב רע״ה",
+      "events": [
+        "Parashat Devarim"
+      ]
+    },
+    {
+      "gy": 1516,
+      "gm": 1,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 5276,
+      "hm": "Sh'vat",
+      "hd": 5,
+      "hebrew": "ה׳ בִּשְׁבָט רע״ו",
+      "events": [
+        "Parashat Bo"
+      ]
+    },
+    {
+      "gy": 1516,
+      "gm": 7,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5276,
+      "hm": "Av",
+      "hd": 4,
+      "hebrew": "ד׳ בְּאָב רע״ו",
+      "events": [
+        "Parashat Devarim"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1522,
+      "gm": 3,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 5282,
+      "hm": "Adar II",
+      "hd": 3,
+      "hebrew": "ג׳ בַּאֲדָר ב׳ רפ״ב",
+      "events": [
+        "Parashat Vayikra"
+      ]
+    },
+    {
+      "gy": 1522,
+      "gm": 9,
+      "gd": 5,
+      "afterSunset": false,
+      "hy": 5282,
+      "hm": "Elul",
+      "hd": 3,
+      "hebrew": "ג׳ בֶּאֱלוּל רפ״ב",
+      "events": [
+        "Parashat Shoftim"
+      ]
+    },
+    {
+      "gy": 1523,
+      "gm": 3,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 5283,
+      "hm": "Adar",
+      "hd": 4,
+      "hebrew": "ד׳ בַּאֲדָר רפ״ג",
+      "events": [
+        "Parashat Terumah"
+      ]
+    },
+    {
+      "gy": 1523,
+      "gm": 8,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 5283,
+      "hm": "Elul",
+      "hd": 5,
+      "hebrew": "ה׳ בֶּאֱלוּל רפ״ג",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1533,
+      "gm": 2,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5293,
+      "hm": "Adar I",
+      "hd": 4,
+      "hebrew": "ד׳ בַּאֲדָר א׳ רצ״ג",
+      "events": [
+        "Parashat Terumah"
+      ]
+    },
+    {
+      "gy": 1533,
+      "gm": 8,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5293,
+      "hm": "Av",
+      "hd": 3,
+      "hebrew": "ג׳ בְּאָב רצ״ג",
+      "events": [
+        "Parashat Devarim"
+      ]
+    },
+    {
+      "gy": 1534,
+      "gm": 1,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5294,
+      "hm": "Sh'vat",
+      "hd": 4,
+      "hebrew": "ד׳ בִּשְׁבָט רצ״ד",
+      "events": [
+        "Parashat Bo"
+      ]
+    },
+    {
+      "gy": 1534,
+      "gm": 7,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5294,
+      "hm": "Av",
+      "hd": 3,
+      "hebrew": "ג׳ בְּאָב רצ״ד",
+      "events": [
+        "Parashat Devarim"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1562,
+      "gm": 1,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 5322,
+      "hm": "Sh'vat",
+      "hd": 4,
+      "hebrew": "ד׳ בִּשְׁבָט שכ״ב",
+      "events": [
+        "Parashat Bo"
+      ]
+    },
+    {
+      "gy": 1562,
+      "gm": 7,
+      "gd": 16,
+      "afterSunset": false,
+      "hy": 5322,
+      "hm": "Av",
+      "hd": 4,
+      "hebrew": "ד׳ בְּאָב שכ״ב",
+      "events": [
+        "Parashat Devarim"
+      ]
+    },
+    {
+      "gy": 1563,
+      "gm": 1,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5323,
+      "hm": "Sh'vat",
+      "hd": 5,
+      "hebrew": "ה׳ בִּשְׁבָט שכ״ג",
+      "events": [
+        "Parashat Bo"
+      ]
+    },
+    {
+      "gy": 1563,
+      "gm": 7,
+      "gd": 5,
+      "afterSunset": false,
+      "hy": 5323,
+      "hm": "Tamuz",
+      "hd": 4,
+      "hebrew": "ד׳ בְּתַמּוּז שכ״ג",
+      "events": [
+        "Parashat Korach"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1580,
+      "gm": 1,
+      "gd": 31,
+      "afterSunset": false,
+      "hy": 5340,
+      "hm": "Sh'vat",
+      "hd": 4,
+      "hebrew": "ד׳ בִּשְׁבָט ש״מ",
+      "events": [
+        "Parashat Bo"
+      ]
+    },
+    {
+      "gy": 1580,
+      "gm": 7,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 5340,
+      "hm": "Av",
+      "hd": 4,
+      "hebrew": "ד׳ בְּאָב ש״מ",
+      "events": [
+        "Shabbat Chazon",
+        "Parashat Devarim"
+      ]
+    },
+    {
+      "gy": 1581,
+      "gm": 1,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 5341,
+      "hm": "Sh'vat",
+      "hd": 5,
+      "hebrew": "ה׳ בִּשְׁבָט שמ״א",
+      "events": [
+        "Parashat Bo"
+      ]
+    },
+    {
+      "gy": 1581,
+      "gm": 7,
+      "gd": 16,
+      "afterSunset": false,
+      "hy": 5341,
+      "hm": "Av",
+      "hd": 6,
+      "hebrew": "ו׳ בְּאָב שמ״א",
+      "events": [
+        "Parashat Devarim"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1909,
+      "gm": 6,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5669,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן תרס״ט",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 1909,
+      "gm": 11,
+      "gd": 27,
+      "afterSunset": false,
+      "hy": 5670,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו תר״ע",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    },
+    {
+      "gy": 1910,
+      "gm": 5,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 5670,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר תר״ע",
+      "events": [
+        "Parashat Bechukotai"
+      ]
+    },
+    {
+      "gy": 1910,
+      "gm": 11,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 5671,
+      "hm": "Cheshvan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּחֶשְׁוָן תרע״א",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1927,
+      "gm": 6,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 5687,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן תרפ״ז",
+      "events": [
+        "Parashat Sh'lach"
+      ]
+    },
+    {
+      "gy": 1927,
+      "gm": 12,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 5688,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו תרפ״ח",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    },
+    {
+      "gy": 1928,
+      "gm": 6,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 5688,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן תרפ״ח",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 1928,
+      "gm": 11,
+      "gd": 27,
+      "afterSunset": false,
+      "hy": 5689,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו תרפ״ט",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1949,
+      "gm": 4,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5709,
+      "hm": "Nisan",
+      "hd": 14,
+      "hebrew": "י״ד בְּנִיסָן תש״ט",
+      "events": [
+        "Ta'anit Bechorot",
+        "Erev Pesach"
+      ]
+    },
+    {
+      "gy": 1949,
+      "gm": 10,
+      "gd": 7,
+      "afterSunset": false,
+      "hy": 5710,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי תש״י",
+      "events": [
+        "Erev Sukkot"
+      ]
+    },
+    {
+      "gy": 1950,
+      "gm": 4,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 5710,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תש״י",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 1950,
+      "gm": 9,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 5711,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי תשי״א",
+      "events": [
+        "Sukkot I"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1967,
+      "gm": 4,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 5727,
+      "hm": "Nisan",
+      "hd": 14,
+      "hebrew": "י״ד בְּנִיסָן תשכ״ז",
+      "events": [
+        "Ta'anit Bechorot",
+        "Erev Pesach"
+      ]
+    },
+    {
+      "gy": 1967,
+      "gm": 10,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 5728,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי תשכ״ח",
+      "events": [
+        "Erev Sukkot"
+      ]
+    },
+    {
+      "gy": 1968,
+      "gm": 4,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5728,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תשכ״ח",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 1968,
+      "gm": 10,
+      "gd": 6,
+      "afterSunset": false,
+      "hy": 5729,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי תשכ״ט",
+      "events": [
+        "Erev Sukkot"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 1985,
+      "gm": 5,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5745,
+      "hm": "Iyyar",
+      "hd": 13,
+      "hebrew": "י״ג בְּאִיָיר תשמ״ה",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 1985,
+      "gm": 10,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 5746,
+      "hm": "Cheshvan",
+      "hd": 13,
+      "hebrew": "י״ג בְּחֶשְׁוָן תשמ״ו",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 1986,
+      "gm": 4,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 5746,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תשמ״ו",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 1986,
+      "gm": 10,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 5747,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי תשמ״ז",
+      "events": [
+        "Erev Sukkot"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2003,
+      "gm": 5,
+      "gd": 16,
+      "afterSunset": false,
+      "hy": 5763,
+      "hm": "Iyyar",
+      "hd": 14,
+      "hebrew": "י״ד בְּאִיָיר תשס״ג",
+      "events": [
+        "Pesach Sheni",
+        "Parashat Behar"
+      ]
+    },
+    {
+      "gy": 2003,
+      "gm": 11,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5764,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן תשס״ד",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2004,
+      "gm": 5,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5764,
+      "hm": "Iyyar",
+      "hd": 13,
+      "hebrew": "י״ג בְּאִיָיר תשס״ד",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2004,
+      "gm": 10,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 5765,
+      "hm": "Cheshvan",
+      "hd": 13,
+      "hebrew": "י״ג בְּחֶשְׁוָן תשס״ה",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2014,
+      "gm": 4,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 5774,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תשע״ד",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2014,
+      "gm": 10,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 5775,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי תשע״ה",
+      "events": [
+        "Erev Sukkot"
+      ]
+    },
+    {
+      "gy": 2015,
+      "gm": 4,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5775,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תשע״ה",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2015,
+      "gm": 9,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 5776,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי תשע״ו",
+      "events": [
+        "Sukkot I"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2032,
+      "gm": 4,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5792,
+      "hm": "Iyyar",
+      "hd": 14,
+      "hebrew": "י״ד בְּאִיָיר תשצ״ב",
+      "events": [
+        "Pesach Sheni",
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2032,
+      "gm": 10,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 5793,
+      "hm": "Cheshvan",
+      "hd": 13,
+      "hebrew": "י״ג בְּחֶשְׁוָן תשצ״ג",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2033,
+      "gm": 4,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 5793,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן תשצ״ג",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2033,
+      "gm": 10,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 5794,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי תשצ״ד",
+      "events": [
+        "Sukkot I"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2043,
+      "gm": 3,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5803,
+      "hm": "Adar II",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר ב׳ תת״ג",
+      "events": [
+        "Ta'anit Esther",
+        "Erev Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2043,
+      "gm": 9,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 5803,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל תת״ג",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 2044,
+      "gm": 3,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 5804,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תת״ד",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2044,
+      "gm": 9,
+      "gd": 7,
+      "afterSunset": false,
+      "hy": 5804,
+      "hm": "Elul",
+      "hd": 15,
+      "hebrew": "ט״ו בֶּאֱלוּל תת״ד",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2050,
+      "gm": 5,
+      "gd": 6,
+      "afterSunset": false,
+      "hy": 5810,
+      "hm": "Iyyar",
+      "hd": 14,
+      "hebrew": "י״ד בְּאִיָיר תת״י",
+      "events": [
+        "Pesach Sheni",
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2050,
+      "gm": 10,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5811,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן תתי״א",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2051,
+      "gm": 4,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 5811,
+      "hm": "Iyyar",
+      "hd": 14,
+      "hebrew": "י״ד בְּאִיָיר תתי״א",
+      "events": [
+        "Pesach Sheni",
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2051,
+      "gm": 10,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 5812,
+      "hm": "Cheshvan",
+      "hd": 13,
+      "hebrew": "י״ג בְּחֶשְׁוָן תתי״ב",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2061,
+      "gm": 4,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5821,
+      "hm": "Nisan",
+      "hd": 14,
+      "hebrew": "י״ד בְּנִיסָן תתכ״א",
+      "events": [
+        "Ta'anit Bechorot",
+        "Erev Pesach"
+      ]
+    },
+    {
+      "gy": 2061,
+      "gm": 9,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 5822,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי תתכ״ב",
+      "events": [
+        "Sukkot I"
+      ]
+    },
+    {
+      "gy": 2062,
+      "gm": 3,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5822,
+      "hm": "Adar II",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר ב׳ תתכ״ב",
+      "events": [
+        "Shabbat Zachor",
+        "Erev Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2062,
+      "gm": 9,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 5822,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל תתכ״ב",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2072,
+      "gm": 3,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 5832,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תתל״ב",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2072,
+      "gm": 8,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 5832,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל תתל״ב",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 2073,
+      "gm": 2,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 5833,
+      "hm": "Adar I",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר א׳ תתל״ג",
+      "events": [
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2073,
+      "gm": 8,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 5833,
+      "hm": "Av",
+      "hd": 14,
+      "hebrew": "י״ד בְּאָב תתל״ג",
+      "events": [
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2090,
+      "gm": 3,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 5850,
+      "hm": "Adar II",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר ב׳ תת״נ",
+      "events": [
+        "Ta'anit Esther",
+        "Erev Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2090,
+      "gm": 9,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 5850,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל תת״נ",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 2091,
+      "gm": 3,
+      "gd": 5,
+      "afterSunset": false,
+      "hy": 5851,
+      "hm": "Adar",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר תתנ״א",
+      "events": [
+        "Shushan Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2091,
+      "gm": 8,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 5851,
+      "hm": "Elul",
+      "hd": 15,
+      "hebrew": "ט״ו בֶּאֱלוּל תתנ״א",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2101,
+      "gm": 2,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 5861,
+      "hm": "Sh'vat",
+      "hd": 15,
+      "hebrew": "ט״ו בִּשְׁבָט תתס״א",
+      "events": [
+        "Tu BiShvat",
+        "Parashat Yitro"
+      ]
+    },
+    {
+      "gy": 2101,
+      "gm": 8,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5861,
+      "hm": "Av",
+      "hd": 14,
+      "hebrew": "י״ד בְּאָב תתס״א",
+      "events": [
+        "Parashat Eikev"
+      ]
+    },
+    {
+      "gy": 2102,
+      "gm": 2,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 5862,
+      "hm": "Sh'vat",
+      "hd": 14,
+      "hebrew": "י״ד בִּשְׁבָט תתס״ב",
+      "events": [
+        "Parashat Beshalach"
+      ]
+    },
+    {
+      "gy": 2102,
+      "gm": 7,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5862,
+      "hm": "Av",
+      "hd": 14,
+      "hebrew": "י״ד בְּאָב תתס״ב",
+      "events": [
+        "Parashat Eikev"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2119,
+      "gm": 2,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 5879,
+      "hm": "Adar I",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר א׳ תתע״ט",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 2119,
+      "gm": 8,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 5879,
+      "hm": "Av",
+      "hd": 14,
+      "hebrew": "י״ד בְּאָב תתע״ט",
+      "events": [
+        "Parashat Eikev"
+      ]
+    },
+    {
+      "gy": 2120,
+      "gm": 2,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 5880,
+      "hm": "Sh'vat",
+      "hd": 15,
+      "hebrew": "ט״ו בִּשְׁבָט תת״פ",
+      "events": [
+        "Tu BiShvat",
+        "Parashat Yitro"
+      ]
+    },
+    {
+      "gy": 2120,
+      "gm": 8,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 5880,
+      "hm": "Av",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאָב תת״פ",
+      "events": [
+        "Tu B'Av",
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2137,
+      "gm": 3,
+      "gd": 7,
+      "afterSunset": false,
+      "hy": 5897,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תתצ״ז",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2137,
+      "gm": 8,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5897,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל תתצ״ז",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 2138,
+      "gm": 2,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 5898,
+      "hm": "Adar I",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר א׳ תתצ״ח",
+      "events": [
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2138,
+      "gm": 8,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 5898,
+      "hm": "Av",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאָב תתצ״ח",
+      "events": [
+        "Tu B'Av",
+        "Parashat Eikev"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2155,
+      "gm": 3,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 5915,
+      "hm": "Adar II",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר ב׳ תתקט״ו",
+      "events": [
+        "Shushan Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2155,
+      "gm": 9,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 5915,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל תתקט״ו",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 2156,
+      "gm": 3,
+      "gd": 7,
+      "afterSunset": false,
+      "hy": 5916,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תתקט״ז",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2156,
+      "gm": 8,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 5916,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל תתקט״ז",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2448,
+      "gm": 6,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 6208,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן ר״ח",
+      "events": [
+        "Parashat Sh'lach"
+      ]
+    },
+    {
+      "gy": 2448,
+      "gm": 12,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 6209,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו ר״ט",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    },
+    {
+      "gy": 2449,
+      "gm": 6,
+      "gd": 6,
+      "afterSunset": false,
+      "hy": 6209,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן ר״ט",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 2449,
+      "gm": 11,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 6210,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו ר״י",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2466,
+      "gm": 6,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 6226,
+      "hm": "Tamuz",
+      "hd": 14,
+      "hebrew": "י״ד בְּתַמּוּז רכ״ו",
+      "events": [
+        "Parashat Pinchas"
+      ]
+    },
+    {
+      "gy": 2466,
+      "gm": 12,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 6227,
+      "hm": "Tevet",
+      "hd": 15,
+      "hebrew": "ט״ו בְּטֵבֵת רכ״ז",
+      "events": [
+        "Parashat Vayechi"
+      ]
+    },
+    {
+      "gy": 2467,
+      "gm": 6,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 6227,
+      "hm": "Sivan",
+      "hd": 16,
+      "hebrew": "ט״ז בְּסִיוָן רכ״ז",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 2467,
+      "gm": 12,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 6228,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו רכ״ח",
+      "events": [
+        "Parashat Vayeshev"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2477,
+      "gm": 5,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 6237,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן רל״ז",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 2477,
+      "gm": 11,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 6238,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו רל״ח",
+      "events": [
+        "Parashat Vayeshev"
+      ]
+    },
+    {
+      "gy": 2478,
+      "gm": 5,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 6238,
+      "hm": "Iyyar",
+      "hd": 13,
+      "hebrew": "י״ג בְּאִיָיר רל״ח",
+      "events": [
+        "Parashat Bechukotai"
+      ]
+    },
+    {
+      "gy": 2478,
+      "gm": 11,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 6239,
+      "hm": "Cheshvan",
+      "hd": 13,
+      "hebrew": "י״ג בְּחֶשְׁוָן רל״ט",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2495,
+      "gm": 6,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 6255,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן רנ״ה",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 2495,
+      "gm": 12,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 6256,
+      "hm": "Kislev",
+      "hd": 15,
+      "hebrew": "ט״ו בְּכִסְלֵו רנ״ו",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    },
+    {
+      "gy": 2496,
+      "gm": 5,
+      "gd": 27,
+      "afterSunset": false,
+      "hy": 6256,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן רנ״ו",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 2496,
+      "gm": 11,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 6257,
+      "hm": "Kislev",
+      "hd": 15,
+      "hebrew": "ט״ו בְּכִסְלֵו רנ״ז",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2506,
+      "gm": 5,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 6266,
+      "hm": "Iyyar",
+      "hd": 13,
+      "hebrew": "י״ג בְּאִיָיר רס״ו",
+      "events": [
+        "Parashat Achrei Mot-Kedoshim"
+      ]
+    },
+    {
+      "gy": 2506,
+      "gm": 11,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 6267,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן רס״ז",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2507,
+      "gm": 4,
+      "gd": 28,
+      "afterSunset": false,
+      "hy": 6267,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר רס״ז",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2507,
+      "gm": 10,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 6268,
+      "hm": "Cheshvan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּחֶשְׁוָן רס״ח",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2524,
+      "gm": 5,
+      "gd": 19,
+      "afterSunset": false,
+      "hy": 6284,
+      "hm": "Iyyar",
+      "hd": 14,
+      "hebrew": "י״ד בְּאִיָיר רפ״ד",
+      "events": [
+        "Pesach Sheni",
+        "Parashat Behar"
+      ]
+    },
+    {
+      "gy": 2524,
+      "gm": 11,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 6285,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן רפ״ה",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2525,
+      "gm": 5,
+      "gd": 8,
+      "afterSunset": false,
+      "hy": 6285,
+      "hm": "Iyyar",
+      "hd": 13,
+      "hebrew": "י״ג בְּאִיָיר רפ״ה",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2525,
+      "gm": 11,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 6286,
+      "hm": "Cheshvan",
+      "hd": 13,
+      "hebrew": "י״ג בְּחֶשְׁוָן רפ״ו",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2542,
+      "gm": 5,
+      "gd": 30,
+      "afterSunset": false,
+      "hy": 6302,
+      "hm": "Sivan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּסִיוָן ש״ב",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 2542,
+      "gm": 11,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 6303,
+      "hm": "Kislev",
+      "hd": 15,
+      "hebrew": "ט״ו בְּכִסְלֵו ש״ג",
+      "events": [
+        "Parashat Vayishlach"
+      ]
+    },
+    {
+      "gy": 2543,
+      "gm": 5,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 6303,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר ש״ג",
+      "events": [
+        "Parashat Behar"
+      ]
+    },
+    {
+      "gy": 2543,
+      "gm": 11,
+      "gd": 12,
+      "afterSunset": false,
+      "hy": 6304,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן ש״ד",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2564,
+      "gm": 3,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 6324,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן שכ״ד",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2564,
+      "gm": 9,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 6325,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי שכ״ה",
+      "events": [
+        "Erev Sukkot"
+      ]
+    },
+    {
+      "gy": 2565,
+      "gm": 3,
+      "gd": 18,
+      "afterSunset": false,
+      "hy": 6325,
+      "hm": "Adar II",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר ב׳ שכ״ה",
+      "events": [
+        "Shushan Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2565,
+      "gm": 9,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 6325,
+      "hm": "Elul",
+      "hd": 15,
+      "hebrew": "ט״ו בֶּאֱלוּל שכ״ה",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2571,
+      "gm": 5,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 6331,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר של״א",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2571,
+      "gm": 11,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 6332,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן של״ב",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2572,
+      "gm": 4,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 6332,
+      "hm": "Iyyar",
+      "hd": 14,
+      "hebrew": "י״ד בְּאִיָיר של״ב",
+      "events": [
+        "Pesach Sheni",
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2572,
+      "gm": 10,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 6333,
+      "hm": "Cheshvan",
+      "hd": 13,
+      "hebrew": "י״ג בְּחֶשְׁוָן של״ג",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2582,
+      "gm": 4,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 6342,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן שמ״ב",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2582,
+      "gm": 10,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 6343,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי שמ״ג",
+      "events": [
+        "Sukkot I"
+      ]
+    },
+    {
+      "gy": 2583,
+      "gm": 3,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 6343,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן שמ״ג",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2583,
+      "gm": 9,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 6344,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי שמ״ד",
+      "events": [
+        "Sukkot I"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2589,
+      "gm": 5,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 6349,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר שמ״ט",
+      "events": [
+        "Parashat Behar"
+      ]
+    },
+    {
+      "gy": 2589,
+      "gm": 11,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 6350,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן ש״נ",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2590,
+      "gm": 5,
+      "gd": 10,
+      "afterSunset": false,
+      "hy": 6350,
+      "hm": "Iyyar",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאִיָיר ש״נ",
+      "events": [
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2590,
+      "gm": 11,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 6351,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן שנ״א",
+      "events": [
+        "Parashat Vayera"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2600,
+      "gm": 4,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 6360,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן ש״ס",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2600,
+      "gm": 10,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 6361,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי שס״א",
+      "events": [
+        "Sukkot I"
+      ]
+    },
+    {
+      "gy": 2601,
+      "gm": 4,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 6361,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן שס״א",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2601,
+      "gm": 10,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 6362,
+      "hm": "Tishrei",
+      "hd": 16,
+      "hebrew": "ט״ז בְּתִשְׁרֵי שס״ב",
+      "events": [
+        "Sukkot II"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2611,
+      "gm": 3,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 6371,
+      "hm": "Adar II",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר ב׳ שע״א",
+      "events": [
+        "Ta'anit Esther",
+        "Erev Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2611,
+      "gm": 9,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 6371,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל שע״א",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 2612,
+      "gm": 3,
+      "gd": 9,
+      "afterSunset": false,
+      "hy": 6372,
+      "hm": "Adar",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר שע״ב",
+      "events": [
+        "Ta'anit Esther",
+        "Erev Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2612,
+      "gm": 9,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 6372,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל שע״ב",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2618,
+      "gm": 5,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 6378,
+      "hm": "Iyyar",
+      "hd": 14,
+      "hebrew": "י״ד בְּאִיָיר שע״ח",
+      "events": [
+        "Pesach Sheni",
+        "Parashat Emor"
+      ]
+    },
+    {
+      "gy": 2618,
+      "gm": 10,
+      "gd": 25,
+      "afterSunset": false,
+      "hy": 6379,
+      "hm": "Cheshvan",
+      "hd": 14,
+      "hebrew": "י״ד בְּחֶשְׁוָן שע״ט",
+      "events": [
+        "Parashat Vayera"
+      ]
+    },
+    {
+      "gy": 2619,
+      "gm": 4,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 6379,
+      "hm": "Nisan",
+      "hd": 13,
+      "hebrew": "י״ג בְּנִיסָן שע״ט"
+    },
+    {
+      "gy": 2619,
+      "gm": 10,
+      "gd": 15,
+      "afterSunset": false,
+      "hy": 6380,
+      "hm": "Tishrei",
+      "hd": 14,
+      "hebrew": "י״ד בְּתִשְׁרֵי ש״פ",
+      "events": [
+        "Erev Sukkot"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2629,
+      "gm": 3,
+      "gd": 31,
+      "afterSunset": false,
+      "hy": 6389,
+      "hm": "Nisan",
+      "hd": 15,
+      "hebrew": "ט״ו בְּנִיסָן שפ״ט",
+      "events": [
+        "Pesach I"
+      ]
+    },
+    {
+      "gy": 2629,
+      "gm": 9,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 6390,
+      "hm": "Tishrei",
+      "hd": 15,
+      "hebrew": "ט״ו בְּתִשְׁרֵי ש״צ",
+      "events": [
+        "Sukkot I"
+      ]
+    },
+    {
+      "gy": 2630,
+      "gm": 3,
+      "gd": 20,
+      "afterSunset": false,
+      "hy": 6390,
+      "hm": "Adar II",
+      "hd": 13,
+      "hebrew": "י״ג בַּאֲדָר ב׳ ש״צ",
+      "events": [
+        "Shabbat Zachor",
+        "Erev Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2630,
+      "gm": 9,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 6390,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל ש״צ",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2640,
+      "gm": 2,
+      "gd": 29,
+      "afterSunset": false,
+      "hy": 6400,
+      "hm": "Adar",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר ת׳",
+      "events": [
+        "Parashat Tetzaveh"
+      ]
+    },
+    {
+      "gy": 2640,
+      "gm": 8,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 6400,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל ת׳",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 2641,
+      "gm": 2,
+      "gd": 17,
+      "afterSunset": false,
+      "hy": 6401,
+      "hm": "Adar I",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר א׳ ת״א",
+      "events": [
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2641,
+      "gm": 8,
+      "gd": 13,
+      "afterSunset": false,
+      "hy": 6401,
+      "hm": "Av",
+      "hd": 15,
+      "hebrew": "ט״ו בְּאָב ת״א",
+      "events": [
+        "Tu B'Av",
+        "Parashat Vaetchanan"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2647,
+      "gm": 4,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 6407,
+      "hm": "Nisan",
+      "hd": 13,
+      "hebrew": "י״ג בְּנִיסָן ת״ז"
+    },
+    {
+      "gy": 2647,
+      "gm": 10,
+      "gd": 5,
+      "afterSunset": false,
+      "hy": 6408,
+      "hm": "Tishrei",
+      "hd": 13,
+      "hebrew": "י״ג בְּתִשְׁרֵי ת״ח"
+    },
+    {
+      "gy": 2648,
+      "gm": 3,
+      "gd": 31,
+      "afterSunset": false,
+      "hy": 6408,
+      "hm": "Nisan",
+      "hd": 14,
+      "hebrew": "י״ד בְּנִיסָן ת״ח",
+      "events": [
+        "Ta'anit Bechorot",
+        "Erev Pesach"
+      ]
+    },
+    {
+      "gy": 2648,
+      "gm": 9,
+      "gd": 23,
+      "afterSunset": false,
+      "hy": 6409,
+      "hm": "Tishrei",
+      "hd": 13,
+      "hebrew": "י״ג בְּתִשְׁרֵי ת״ט",
+      "events": [
+        "Parashat Ha'Azinu"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2658,
+      "gm": 3,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 6418,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תי״ח",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2658,
+      "gm": 9,
+      "gd": 4,
+      "afterSunset": false,
+      "hy": 6418,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל תי״ח",
+      "events": [
+        "Parashat Ki Teitzei"
+      ]
+    },
+    {
+      "gy": 2659,
+      "gm": 3,
+      "gd": 1,
+      "afterSunset": false,
+      "hy": 6419,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תי״ט",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2659,
+      "gm": 8,
+      "gd": 24,
+      "afterSunset": false,
+      "hy": 6419,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל תי״ט",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2676,
+      "gm": 3,
+      "gd": 22,
+      "afterSunset": false,
+      "hy": 6436,
+      "hm": "Adar II",
+      "hd": 15,
+      "hebrew": "ט״ו בַּאֲדָר ב׳ תל״ו",
+      "events": [
+        "Shushan Purim",
+        "Parashat Tzav"
+      ]
+    },
+    {
+      "gy": 2676,
+      "gm": 9,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 6436,
+      "hm": "Elul",
+      "hd": 14,
+      "hebrew": "י״ד בֶּאֱלוּל תל״ו",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    },
+    {
+      "gy": 2677,
+      "gm": 3,
+      "gd": 11,
+      "afterSunset": false,
+      "hy": 6437,
+      "hm": "Adar",
+      "hd": 14,
+      "hebrew": "י״ד בַּאֲדָר תל״ז",
+      "events": [
+        "Purim",
+        "Parashat Ki Tisa"
+      ]
+    },
+    {
+      "gy": 2677,
+      "gm": 9,
+      "gd": 3,
+      "afterSunset": false,
+      "hy": 6437,
+      "hm": "Elul",
+      "hd": 13,
+      "hebrew": "י״ג בֶּאֱלוּל תל״ז",
+      "events": [
+        "Parashat Ki Tavo"
+      ]
+    }
+  ],
+  [
+    {
+      "gy": 2987,
+      "gm": 7,
+      "gd": 2,
+      "afterSunset": false,
+      "hy": 6747,
+      "hm": "Tamuz",
+      "hd": 14,
+      "hebrew": "י״ד בְּתַמּוּז תשמ״ז",
+      "events": [
+        "Parashat Pinchas"
+      ]
+    },
+    {
+      "gy": 2987,
+      "gm": 12,
+      "gd": 26,
+      "afterSunset": false,
+      "hy": 6748,
+      "hm": "Tevet",
+      "hd": 15,
+      "hebrew": "ט״ו בְּטֵבֵת תשמ״ח",
+      "events": [
+        "Parashat Vayechi"
+      ]
+    },
+    {
+      "gy": 2988,
+      "gm": 6,
+      "gd": 21,
+      "afterSunset": false,
+      "hy": 6748,
+      "hm": "Sivan",
+      "hd": 16,
+      "hebrew": "ט״ז בְּסִיוָן תשמ״ח",
+      "events": [
+        "Parashat Beha'alotcha"
+      ]
+    },
+    {
+      "gy": 2988,
+      "gm": 12,
+      "gd": 14,
+      "afterSunset": false,
+      "hy": 6749,
+      "hm": "Kislev",
+      "hd": 14,
+      "hebrew": "י״ד בְּכִסְלֵו תשמ״ט",
+      "events": [
+        "Parashat Vayeshev"
+      ]
+    }
+  ]
+]
